@@ -2,6 +2,7 @@
 - 👀 I’m interested in expanding my coding knowledge and experience.
 - 🌱 I’m currently learning the Fundamentals of Coding and web development.
 - 💞️ I’m looking to collaborate on any project where I can learn and add value.
+- Also interest in learning the Github platform.
 
 <!---
 Garania0/Garania0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
